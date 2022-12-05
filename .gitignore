@@ -1,9 +1,9 @@
 
 #virtual_env
-env_AI_project
+env_AI_project/
 
 #files from yolov7 tested
-yolo/runs
+yolo/runs/
 yolo/traced_model.pt
-yolo/data/train
-yolo/data/val
+yolo/data/train/
+yolo/data/val/
