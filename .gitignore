@@ -3,7 +3,7 @@
 env_AI_project/
 
 #files from yolov7 tested
+# yolo/data/train/
+# yolo/data/val/
+#yolo/traced_model.pt
 yolo/runs/
-yolo/traced_model.pt
-yolo/data/train/
-yolo/data/val/
